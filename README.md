@@ -1,5 +1,5 @@
 # AMoI Calculator
-    #### Video Demo:  <https://www.youtube.com/watch?v=focpEf84uQ0&t=17s>
+    #### Video Demo:  <[https://www.youtube.com/watch?v=focpEf84uQ0&t=17s](https://youtu.be/ykPuTYBtmQw?si=NF8jj9VqJKQASzWq)>
     #### Description: Area Moment of Inertia Calculator
 ![image alt test](https://efficientengineer.com/wp-content/uploads/second_moment_of_area.jpg)
 
