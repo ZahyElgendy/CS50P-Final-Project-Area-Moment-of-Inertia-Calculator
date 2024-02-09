@@ -15,13 +15,6 @@ def test_Trapezoid():
 def test_Ellipse():
     assert Ellipse(5,6) == 'Ix = 848.23, Iy = 589.049'
 
-    # assert Rectangle() == "E"
-    # assert gauge(0) == "E"
-    # assert gauge(99) == "F"
-    # assert gauge(100) == "F"
-    # #this checks that correct values are outputed
-    # assert gauge(45) == "45%"
-
 
 
     
